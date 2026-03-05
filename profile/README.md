@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/La-liste/frontend/refs/heads/main/icon.png" width="36" align="center" />
+  <img src="https://raw.githubusercontent.com/La-liste/frontend/refs/heads/main/icon.png" width="40" align="center" />
   La liste
 </h1>
 
@@ -16,6 +16,7 @@ La liste is an application to keep track of what you have at home and what you n
 
 Front-end by <a href="https://github.com/Str4ky">Str4ky</a><br />
 Back-end by <a href="https://github.com/LOICVAL42">LOICVAL</a>
+
 
 
 
