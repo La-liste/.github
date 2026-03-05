@@ -14,5 +14,6 @@ La liste is an application to keep track of what you have at home and what you n
 
 ## Credits
 
-Front-end by @Str4ky<br />
-Back-end by @LOICVAL42
+Front-end by <a href="https://github.com/Str4ky">Str4ky</a><br />
+Back-end by <a href="https://github.com/LOICVAL42">LOICVAL</a>
+
