@@ -1,4 +1,4 @@
-# <img src="https://games.straky.fr/assets/img/favicon.png" width="40" style="vertical-align: middle;"> La liste
+# <img src="https://raw.githubusercontent.com/La-liste/frontend/refs/heads/main/icon.png" width="40" style="vertical-align: middle; margin-top: -4px;"> La liste
 
 ## Presentation
 
@@ -13,5 +13,6 @@ La liste is an application to keep track of what you have at home and what you n
 
 Front-end by <a href="https://github.com/Str4ky">Str4ky</a><br />
 Back-end by <a href="https://github.com/LOICVAL42">LOICVAL</a>
+
 
 
